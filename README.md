@@ -1,8 +1,8 @@
 # Sri Sai Cars – Car Booking System (MERN Stack)
 
 This project, **Sri Sai Cars**, is a full-stack Car Booking Web Application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js).  
-The application allows users to browse cars, manage wishlist and cart, and book cars through a simple and user-friendly interface.  
-It also includes an admin panel to manage bookings, cars, and user activities.
+The application allows users to browse cars, manage wishlist, cart and book cars through a simple and user-friendly interface.  
+It also includes an admin panel to manage bookings, cars and user activities.
 
 ---
 
@@ -59,7 +59,7 @@ Checkout
 ## 📌 Project Highlights
 
 - Built using full-stack MERN architecture  
-- Includes real-world features like cart, wishlist, and booking  
+- Includes real-world features like cart, wishlist and booking  
 - Separate admin panel for managing system data  
 - REST API integration with MongoDB  
 - Clean and responsive user interface  
